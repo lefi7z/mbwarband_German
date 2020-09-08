@@ -315,12 +315,13 @@ dlga_minister_issues:center_captured_lord_advice|[Should not appear - there to p
 dlga_minister_issues:minister_talk.2|Wenn ich Euch einen Rat geben dürfte, {Herr/meine Dame}? Es scheint, dass Eure Rechte als unabhängiger Monarch nicht so ganz anerkannt werden, was uns später Probleme einbringen könnte. Es könnte ratsam sein, Euch ein anderes Königreich zu suchen, mit dem ihr gemeinsame Interessen habt, und von ihm anerkannt zu werden, um Euch als Gleicher unter Calradias anderen Königen zu etablieren.
 dlga_minister_issues:minister_talk.3|Im Moment gibt es keine besonders wichtigen Angelegenheiten,die Eurer Aufmerksamkeit bedürfen. Gibt es irgendetwas, das getan werden soll?
 dlga_minister_pretalk:minister_talk|Habt Ihr einen Auftrag für mich?
-dlga_minister_talk:combined_political_quests|Habt Ihr irgendwelche Pläne, wie Ihr den Zusammenhalt Eures Königreichs stärken könnt?
+dlga_minister_talk:combined_political_quests|Habt Ihr einen Vorschlag, wie ich den Zusammenhalt des Königreichs stärken könnte?
 dlga_minister_talk:minister_diplomatic_kingdoms|Ich möchte einen Botschafter entsenden.
 dlga_minister_talk:minister_indict|Ich möchte einen untreuen Vasallen des Verrats anklagen.
 dlga_minister_talk:minister_replace|Ich möchte, dass Ihr als Minister zurücktretet.
 dlga_minister_talk:minister_replace.1|Ich möchte, dass Ihr Euch mir wieder anschließt.
-dlga_minister_talk:minister_grant_fief|Ich möchte, dass Ihr einem meiner Vasallen ein Lehen gewährt.
+dlga_minister_talk:minister_grant_fief|Ich möchte einem meiner Vasallen ein Lehen gewähren.
+dlga_minister_talk:minister_rename_court|Ich möchte die Hauptstadt umbenennen.
 dlga_minister_talk:close_window|Das ist im Moment alles.
 dlga_minister_diplomatic_kingdoms:minister_diplomatic_kingdoms_select|Zu wem soll der Botschafter geschickt werden?
 dlga_minister_diplomatic_kingdoms:minister_pretalk|Leider ist gerade niemand da, den ich aussenden kann.
@@ -328,16 +329,16 @@ dlga_minister_diplomatic_kingdoms_select:minister_diplomatic_initiative_type|{s1
 dlga_minister_diplomatic_initiative_type:minister_diplomatic_initiative_type_select|Was möchtet Ihr ihm mitteilen?
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|Dass unser beider Königreiche einen Waffenstillstand unterzeichnen sollten.
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.1|Dass ich mich als Vasall unter seinen Schutz stellen möchte.
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.2|$Dass ich ihm von König zu König meine Gunst erweisen möchte.
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.2|Dass ich ihm von {König/Königin} zu König meine Gunst erweisen möchte.
 dlga_minister_diplomatic_initiative_type_select:minister_declare_war|Dass ich ihm den Krieg erkläre.
 dlga_minister_diplomatic_initiative_type_select:close_window|Schon gut.
 dlga_minister_declare_war:minister_declare_war_confirm|{s12}
-dlga_minister_declare_war_confirm:minister_declare_war_confirm_yes|So ist es. Ich möchte Krieg gegen {s12} führen.
+dlga_minister_declare_war_confirm:minister_declare_war_confirm_yes|So ist es. Ich will gegen {s12} in den Krieg ziehen.
 dlga_minister_declare_war_confirm:minister_pretalk|Hmmh. Vielleicht doch lieber nicht.
 dlga_minister_declare_war_confirm_yes:minister_pretalk|Wie Ihr befehlt. Wir befinden uns nun mit {s12} im Krieg. Möge der Himmel uns den Sieg schenken.
-dlga_minister_diplomatic_emissary:minister_emissary_select|Wer soll Euer Botschafter sein? Ihr solltet einen Eurer Vertrauten wählen, der aber auch überzeugend auftreten können sollte. Jemand, der geschickt verhandeln kann, ohne zu provozieren.
+dlga_minister_diplomatic_emissary:minister_emissary_select|Wer soll Euer Botschafter sein? Ihr solltet einen Eurer Vertrauten wählen, der überzeugend auftreten kann. Jemand, der geschickt verhandelt, ohne zu provozieren.
 dlga_minister_emissary_select:minister_emissary_dispatch|{s11}
-dlga_minister_emissary_select:minister_pretalk|So jemand kenne ich eigentlich nicht.
+dlga_minister_emissary_select:minister_pretalk|So jemanden kenne ich eigentlich nicht.
 dlga_minister_emissary_dispatch:minister_diplomatic_dispatch_confirm|Wohlan – ich werde {s11} zu den {s12} nach {s14} entsenden.
 dlga_minister_diplomatic_dispatch_confirm:minister_pretalk|Ja, macht das.
 dlga_minister_diplomatic_dispatch_confirm:minister_pretalk.1|Wartet damit noch etwas.
@@ -472,11 +473,11 @@ dlga_start:freed_lord_answer|Ihr habt mich befreit. Dafür stehe ich auf ewig in
 dlga_freed_lord_answer:freed_lord_answer_1|Du wirst nirgendwo hingehen, 'Freundchen'. Du bist jetzt mein Gefangener.
 dlga_freed_lord_answer_1:close_window|Dafür werde ich deinen Kopf eines Tages auf einen Spieß stecken, du Bastard!
 dlga_freed_lord_answer:freed_lord_answer_2|Herr, Ihr könnt gehen, wohin Ihr wollt.
-dlga_freed_lord_answer_2:close_window|Ich danke Euch, oh {Herr/Fürstin}. Ich vergesse niemanden, der gut zu mir gewesen ist.
+dlga_freed_lord_answer_2:close_window|Ich danke Euch, {oh Herr/meine Fürstin}. Ich vergesse niemanden, der gut zu mir gewesen ist.
 dlga_start:defeat_lord_answer|{s43}
 dlga_defeat_lord_answer:defeat_lord_answer_1|Ihr seid nun mein Gefangener.
 dlga_defeat_lord_answer_1:close_window|Ich bin Eurer Gnade ausgeliefert.
-dlga_defeat_lord_answer:defeat_lord_answer_2|Ihr habt gut gekämpft, daher schenke ich Euch die Freiheit.
+dlga_defeat_lord_answer:defeat_lord_answer_2|Ihr habt tapfer gekämpft. Daher schenke ich Euch die Freiheit.
 dlga_defeat_lord_answer_2:close_window|{s43}
 dlga_start:party_encounter_lord_hostile_attacker|{playername}!
 dlga_start:party_encounter_lord_hostile_attacker.1|Halt!
@@ -486,12 +487,12 @@ dlga_party_encounter_lord_hostile_attacker_2:close_window|Wir werden bis zum End
 dlga_party_encounter_lord_hostile_attacker_2:lord_recruit_1_relation|Haltet ein! Es gibt da etwas, das ich Euch unter vier Augen erzählen muss.
 dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight|Könnte dieses Gefecht nicht vermieden werden? Ich möchte nicht mit Euch kämpfen.
 dlga_party_encounter_lord_hostile_attacker_2:close_window.1|Nicht angreifen, wir ergeben uns!
-dlga_party_encounter_offer_dont_fight:close_window|Ich schulde Euch einen Gefallen, nicht wahr? Wohlan ... so sei es. Dieses eine Mal werde ich Euch noch ziehen lassen.
+dlga_party_encounter_offer_dont_fight:close_window|Ich schulde Euch einen Gefallen, nicht wahr? Wohlan... so sei es. Dieses eine Mal werde ich Euch noch ziehen lassen.
 dlga_party_encounter_offer_dont_fight:close_window.1|{s43}
 dlga_start:supported_pretender_talk|Ich warte auf Euren Rat, {playername}.
 dlga_start:pretender_intro_1|Kennen wir uns?
-dlga_pretender_intro_1:pretender_intro_2|Mein Name lautet {playername}. Ich stehe zu Diensten.
-dlga_pretender_intro_1:pretender_intro_2.1|Ich bin {playername}. Vielleicht habt Ihr von meinen Heldentaten gehört?
+dlga_pretender_intro_1:pretender_intro_2|Ich bin {playername}. Zu Euren Diensten.
+dlga_pretender_intro_1:pretender_intro_2.1|Mein Name ist {playername}. Mit Sicherheit habt Ihr von meinen Heldentaten gehört?
 dlga_pretender_intro_2:pretender_intro_3|{s48}
 dlga_pretender_intro_3:pretender_rebellion_cause_1|Ich dachte, {s12} würde von {s11} regiert?
 dlga_start:pretender_start|Seid gegrüßt, {playername}
@@ -1108,7 +1109,7 @@ dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|Dann 
 dlga_lord_enter_service_swear_accepted_2:close_window|Ich verlange von Euch, dass Ihr die Truppen unserer Feinde vernichtet, wo immer Ihr auf sie trefft. Fürderhin werde ich von Zeit zu Zeit spezielle Aufgaben für Euch haben, was auch für andere meiner Vasallen zutreffen kann. Dienst, kämpft und ehrt Euren Schwur. Wünschet Ihr im Range zu steigen, so wird dies der Weg zum Erfolg sein. Möge Gott uns lange Leben und viele Siege gönnen, die wir in meiner Halle betrinken können!
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify|Hmmm. Ist Euch Euer Treueschwur zur Last geworden, {playername}? Vom Treueschwur an mich entbunden zu werden ist ein ungewöhnliches Anliegen, aber angesichts Eurer lobenswerten Dienste werde ich Euch nicht im Wege stehen, wenn Ihr ihn beenden wollt. Seid Euch gewiss, dass wir Euch sehr vermissen würden.
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|Vom Treueschwur entbinden? Hmmm, vielleicht wäre es damit zum Besten bestellt ... Trotzdem, {playername}, Ihr müsst Euch sicher sein, dass dies auch wirklich das ist, was Ihr wünscht. Dies ist kein einfacher Schritt.
-dlga_lord_ask_leave_service_verify:lord_ask_leave_service_2|Es ist etwas, das ich tun muss, {s65}.
+dlga_lord_ask_leave_service_verify:lord_ask_leave_service_2|Da ist etwas, das ich tun muss, {s65}.
 dlga_lord_ask_leave_service_verify:lord_ask_leave_service_giveup|Ihr habt Recht, {s65}. Mein Platz ist hier.
 dlga_lord_ask_leave_service_giveup:lord_pretalk|Ich freue mich, das zu hören, {playername}. Ich hoffe, dass Ihr solch unwürdige Gedanken von nun an aus Eurem Denken verbannen werdet.
 dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_3|Jawohl, {s65}.
@@ -1116,8 +1117,8 @@ dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup|Natürlic
 dlga_lord_ask_leave_service_3:lord_ask_leave_service_end|Wir Ihr wünscht. Hiermit erkläre ich Eure Schwüre für null und nichtig. Von nun an haltet Ihr keine Ländereien oder Titel in meinem Namen mehr und seid von Euren Verpflichtungen meinem Haus gegenüber entbunden. Ihr seid frei, {playername}.
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2|Ich danke Euch, Herr. Es war mir eine Ehre, Euch zu dienen ...
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2.1|Habt meinen Dank. Es fühlt sich gut an, wieder frei zu sein.
-dlga_lord_ask_leave_service_end_2:close_window|Lebt wohl, {playername}, und möge das Glück mit Euch sein.
-dlga_lord_active_mission_1:lord_lend_companion_end|Oh, wollt Ihr Euren Gefährten zurück? Ich verstehe ...
+dlga_lord_ask_leave_service_end_2:close_window|Lebt wohl, {playername}, und möge das Glück Euch hold sein.
+dlga_lord_active_mission_1:lord_lend_companion_end|Oh, Ihr wollt Euren Gefährten zurück? Ich verstehe...
 dlga_lord_active_mission_1:lord_pretalk|{playername}, könnt Ihr Euch noch etwas gedulden? Ich brauche Euren Gefährten noch eine Weile länger. Bitte kehrt später zurück, wenn sich die Lage entspannt hat.
 dlga_lord_active_mission_1:lord_active_mission_2|Ja, habt Ihr Fortschritte damit erzielt?
 dlga_lord_active_mission_2:lord_generic_mission_thank|In der Tat. Ich habe Euch {reg1} {s1} als Gefangene gebracht.
@@ -1127,22 +1128,22 @@ dlga_capture_enemy_hero_thank_2:lord_pretalk|Gewiss, {s65}.
 dlga_capture_enemy_hero_thank_2:lord_pretalk.1|Das war eine Kleinigkeit für mich.
 dlga_capture_enemy_hero_thank_2:lord_pretalk.2|Gebt mir nächstes Mal doch eine größere Herausforderung.
 dlga_lord_active_mission_2:lord_raise_troops_thank|In der Tat. Ich habe {reg1} {s13} ausgebildet. Ihr könnt sie haben.
-dlga_lord_raise_troops_thank:lord_raise_troops_thank_2|{playername}, diese Soldaten könnten für meine Pläne das Zünglein an der Waage ausmachen. Ich bin überzeugt, dass Ihr sie gut ausgebildet habt. Seid Euch meines Dankes und Lobes gewiss.
+dlga_lord_raise_troops_thank:lord_raise_troops_thank_2|{playername}, diese Soldaten könnten für meine Pläne das Zünglein an der Waage sein. Ich bin überzeugt, dass Ihr sie gut ausgebildet habt. Seid Euch meines Dankes und Lobes gewiss.
 dlga_lord_raise_troops_thank_2:lord_pretalk|Nun, die Kameraden stehen nun unter Eurem Befehl, Herr. Ich bin sicher, dass Ihr Euch gut um sie kümmern werdet.
 dlga_lord_active_mission_2:lord_collect_taxes_success|Hier sind sämtliche Steuergelder von {s3}. Sie belaufen sich auf {reg19} Dinar.
 dlga_lord_active_mission_2:lord_collect_taxes_half_success|Hier sind die Steuergelder von {s3}. Sie belaufen sich auf {reg19} Dinar.
 dlga_lord_active_mission_2:lord_collect_taxes_fail|Leider brach eine Revolte los, als ich die Steuern eintrieb - ich konnte deshalb nur {reg19} Dinar sammeln.
-dlga_lord_collect_taxes_success:lord_pretalk|Gut gemacht, {playername}, wirklich sehr gut! Ihr wart wahrlich die richtige Person für den Auftrag. Ich versprach Euch den Fünften der Steuern, was {reg21} Dinare ausmacht. Wenn Ihr mir {reg20} Dinare gebt, so möget Ihr die Differenz behalten. Ein gutes Ergebnis für alle Beteiligten, nicht wahr?
+dlga_lord_collect_taxes_success:lord_pretalk|Gut gemacht, {playername}, wirklich sehr gut! Ihr wart wahrlich die richtige Person für den Auftrag. Ich versprach Euch den Fünften der Steuern, was {reg21} Dinare ausmacht. Wenn Ihr mir {reg20} Dinare gebt, so möget Ihr die Differenz behalten. Ein gutes Geschäft für alle Beteiligten, nicht wahr?
 dlga_lord_collect_taxes_half_success:lord_pretalk|Was?! Ist das eine List von Euch, {playername}? Das ist weniger als die Hälfte der Steuersumme, die man mir schuldet! Mit Meuchelmord habt Ihr sie entkommen lassen ... und mit meinem Geld! Welch übles Possenspiel! Das Geld, das ich Euch versprochen hatte, könnt Ihr vergessen. Ich nehme die {reg20} Dinare, die Ihr eingetrieben habt - und Ihr könnt Euch glücklich schätzen, dass ich Euch ein paar Münzen gebe, damit Ihr Euer Gesicht wahren könnt.
 dlga_lord_collect_taxes_fail:lord_pretalk|Beim allmächtigen Schöpfer, in welches Unglück habt Ihr uns da gestürzt, {playername}? Wenn wir nicht sofort einschreiten, könnte dies äußerst unangenehm werden! Ich hoffe sehr, dass Ihr für Euer Scheitern nicht auch noch entlohnt werden wollt! Seid so frei und gebt mir meine {reg19} Dinare. Damit wäre diese Angelegenheit dann beendet.
 dlga_lord_active_mission_2:lord_hunt_down_fugitive_success|Ich habe {s4} in seinem Versteck in {s3} ausfindig gemacht und ihm seine rechtmäßige Strafe zukommen lassen.
 dlga_lord_active_mission_2:lord_hunt_down_fugitive_fail|Ich fürchte, er ist mir entkommen.
 dlga_lord_hunt_down_fugitive_success:lord_hunt_down_fugitive_success_2|Und ohne ihn wird es uns allen besser gehen! Ich danke Euch, {playername}, dass Ihr diesen Dorn aus meiner Seite entfernt habt. Es ist gut, zu wissen, dass Ihr Eure Aufträge mit angemessenem Taktgefühl erledigen könnt. Ich versprach Euch ein Kopfgeld – und ein Kopfgeld sollt Ihr auch bekommen, bis auf den letzten Heller!
 dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_accept|Gebt mir das Geld, {s65}. Ich danke Euch.
-dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_reject|Das ist Blutgeld, ich kann es nicht akzeptieren.
+dlga_lord_hunt_down_fugitive_success_2:lord_hunt_down_fugitive_reward_reject|Das ist Blutgeld! Ich kann es nicht akzeptieren.
 dlga_lord_hunt_down_fugitive_reward_accept:lord_pretalk|Natürlich, {playername}. Bitte sehr. Abermals: Ich danke Euch, dass Ihr diesen {s43} für mich beseitigt habt.
 dlga_lord_hunt_down_fugitive_reward_reject:lord_pretalk|Wahrlich, für Euch ist Gerechtigkeit schon Belohnung genug, nicht wahr? Wie Ihr wünscht, {playername}, wie Ihr wünscht. Fürwahr, eine gar ehrenhafte Gesinnung. Dennoch: Ich danke Euch, dass Ihr diesen {s43} für mich beseitigt habt.
-dlga_lord_hunt_down_fugitive_fail:lord_pretalk|Für die Gerechtigkeit ist es ein trauriger Trag, dass {s43} seiner Strafe ein weiteres Mal entkommen konnte. Ich hatte gedacht, dass Ihr dazu in der Lage sein würdet, {playername}. Offensichtlich hatte ich Unrecht.
+dlga_lord_hunt_down_fugitive_fail:lord_pretalk|Für die Gerechtigkeit ist es ein trauriger Tag, dass {s43} seiner Strafe ein weiteres Mal entkommen konnte. Ich hatte gedacht, dass Ihr dazu in der Lage sein würdet, {playername}. Offensichtlich hatte ich Unrecht.
 dlga_lord_active_mission_2:lord_active_mission_3|Ich arbeite noch daran.
 dlga_lord_active_mission_2:lord_mission_failed|Ich fürchte, dass ich diese Quest nicht erfüllen kann.
 dlga_lord_active_mission_3:lord_pretalk|Gut. Vergesst nicht - ich zähle auf Euch.
