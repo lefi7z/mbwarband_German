@@ -1,4 +1,4 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
+lockitver|DO NOT DELETE THIS LINE! - Pferd % Schwert: Eine Deutschkorrektur - 28.06.2017 - Xyarvius 
 pt_none|none
 pt_rescued_prisoners|Befreite Gefangene
 pt_enemy|Feind
@@ -18,12 +18,12 @@ pt_merchant_caravan|Händlerkarawane
 pt_troublesome_bandits|Lästige Banditen
 pt_bandits_awaiting_ransom|Lösegeld erwartende Banditen
 pt_kidnapped_girl|Entführtes Mädchen
-pt_village_farmers|Dorfbauern
+pt_village_farmers|Dörfler
 pt_spy_partners|Unauffällige Reisende
 pt_runaway_serfs|Flüchtige Leibeigene
 pt_spy|Gewöhnlicher Städter
 pt_sacrificed_messenger|Geopferter Bote
-pt_forager_party|Foraging Party
+pt_forager_party|Vorhut
 pt_scout_party|Späher
 pt_patrol_party|Patrouille
 pt_messenger_party|Bote
@@ -35,11 +35,11 @@ pt_default_prisoners|Default Prisoners
 pt_routed_warriors|Verjagte Feinde
 pt_center_reinforcements|Verstärkung
 pt_kingdom_hero_party|Kriegstrupp
-pt_steppe_bandit_lair|Steppenbanditen-Lager
-pt_taiga_bandit_lair|Tundrabanditen-Lager
-pt_desert_bandit_lair|Wüstenräuber-Lager
-pt_forest_bandit_lair|Waldbanditen-Lager
-pt_mountain_bandit_lair|Gebirgsbanditen-Versteck
-pt_sea_raider_lair|Seeräuber-Anlegestelle
+pt_steppe_bandit_lair|Lager der Steppenbanditen
+pt_taiga_bandit_lair|Lager der Tundrabanditen
+pt_desert_bandit_lair|Lager der Wüstenräuber
+pt_forest_bandit_lair|Lager der Waldbanditen
+pt_mountain_bandit_lair|Versteck der Gebirgsbanditen
+pt_sea_raider_lair|Anlegestelle der Seeräuber
 pt_looter_lair|Entführerversteck
 pt_leaded_looters|Räuberbande

@@ -1,4 +1,4 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
+lockitver|DO NOT DELETE THIS LINE! - Pferd % Schwert: Eine Deutschkorrektur - 28.06.2017 - Xyarvius 
 imod_plain|%s, einfach
 imod_cracked|%s, gesprungen
 imod_rusty|%s, rostig
@@ -35,10 +35,10 @@ imod_stubborn|%s, stur
 imod_timid|%s, schüchtern
 imod_meek|%s, duldsam
 imod_spirited|%s, lebendig
-imod_champion|%s, Champion 
+imod_champion|%s, heldenhaft
 imod_fresh|%s, frisch
 imod_day_old|%s, einen Tag alt
 imod_two_day_old|%s, zwei Tage alt
 imod_smelling|%s, übelriechend
 imod_rotten|%s, verfault
-imod_large_bag|Großer Sack %s
+imod_large_bag|Großer Köcher mit %s
