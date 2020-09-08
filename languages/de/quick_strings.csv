@@ -250,7 +250,7 @@ qstr_Player_honor_is_incr|Spielerehre wurde um 1 erhöht und beträgt nun {reg7}
 qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?akzeptieren:akzeptiert} das Angebot.
 qstr_No_one_accepts_the_o|Niemand akzeptiert das Angebot.
 qstr_You_start_reading_{s|Ihr beginnt, {s2} zu lesen. Nach ein paar Seiten findet Ihr, dass Ihr aus diesem Buch eine Menge lernen könnt. Ihr beschließt, es bei Euch zu halten und zu lesen, wann immer Ihr Zeit findet.
-qstr_You_flip_through_the|Ihr blättert durch {s2}, aber findet den Text verwirrend und schwierig. Trotz aller Versuche habt Ihr schon bald heftige Kopfschmerzen und müsst den Versuch aufgeben.
+qstr_You_flip_through_the|Ihr blättert durch {s2}, aber findet den Text verwirrend und schwierig. Trotz aller Versuche habt Ihr schon bald heftige Kopfschmerzen und legt das Buch fürs Erste beiseite.
 qstr_Villagers|Dörfler
 qstr_You_have_encountered|Ihr seid auf {s1} gestoßen.
 qstr_You_have_engaged_{s1|Ihr habt {s1} während ihrem Überfall auf {s3} angegriffen.
@@ -313,7 +313,7 @@ qstr_Luckily_some_of_your|Glücklicherweise kommen einige Eurer Gefährten auf d
 qstr_Luckily_some_passing|Glücklicherweise kommen einige Städter des Weges, sehen Euch am Straßenrand liegen, und erkennen, dass Ihr mehr als ein lumpiger Bettler seid. Sie tragen Euch zur nächsten Herberge und verarzten Eure Wunden.
 qstr_You_fail_to_steal_an|Euer Viehdiebstahl schlägt fehl.
 qstr_You_drive_away_{reg1|Ihr treibt {reg17} Stück Vieh aus der Dorfherde fort.
-qstr_You_are_at_{s2}.|Ihr seid bei {s2}.
+qstr_You_are_at_{s2}.|Dies ist {s2}.
 qstr__This_castle_has_no_| Diese Burg hat keine Garnison.
 qstr__This_town_has_no_ga| Diese Stadt hat keine Garnison.
 qstr__You_have_successful|Ihr seid erfolgreich hineingeschlichen.

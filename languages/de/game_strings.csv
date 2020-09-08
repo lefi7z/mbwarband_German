@@ -2188,16 +2188,16 @@ str__this_castle_does_not_seem_to_be_under_anyones_control| Diese Burg scheint i
 str__this_town_is_temporarily_under_royal_control| Diese Stadt ist vorübergehend in königlicher Hand.
 str__the_townspeople_seem_to_have_declared_their_independence| Die Städter scheinen ihre Unabhängigkeit erklärt zu haben.
 str_to_your_husband_s11|Eurem Gatten, {s11}.
-str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Ihr seht das Banner Eures Gespons {s7} über dem Burgtor wehen.
-str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| Das Banner Eures Gespons, {s7} flattert über den Stadttoren.
+str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Ihr seht das Banner Eure{r Gemahlin/s Gemahls} {s7} über dem Burgtor wehen.
+str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| Das Banner Eure{r Gemahlin/s Gemahls} {s7} flattert über den Stadttoren.
 str__the_lord_is_currently_holding_a_feast_in_his_hall|^Der Fürst hält momentan ein Gelage in seiner Halle ab.
 str__join_the_feast| (dem Gelage anschließen)
 str_belligerent_drunk_in_s4|Rauflustiger Trunkenbold in {s4}
 str_belligerent_drunk_not_found|Rauflustiger Trunkenbold nicht gefunden
 str_roughlooking_character_in_s4|Finster aussehender Typ in {s4}
 str_roughlooking_character_not_found|Finster aussehender Typ nicht gefunden
-str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle|Allerdings habt Ihr Euch einen solchen Namen gemacht, dass Ihr zu dem laufenden Gelage in des Fürsten Burg eingeladen werdet.
-str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}. Auch werdet Ihr zu dem laufenden Gelage in des Fürsten Burg eingeladen.
+str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle|Allerdings habt Ihr Euch einen solchen Namen gemacht, dass Ihr zu dem Gelage in des Fürsten Burg eingeladen werdet.
+str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}. Auch werdet Ihr zu dem Gelage in des Fürsten Burg eingeladen.
 str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11} Leider wurde {s12} verwundet und musste zurückgelassen werden.
 str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11} Außerdem wurde {s12} verwundet und musste zurückgelassen werden.
 str_with_the_s10|mit den {s10}
@@ -2463,7 +2463,7 @@ str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13| Doch er sitzt dort
 str_they_say_that_s9_is_a_most_conventional_maiden__devoted_to_her_family_of_a_kind_and_gentle_temperament_a_lady_in_all_her_way|Man sagt, {s9} sei eine höchst konservative Maid – familienorientiert, von sanftem und freundlichem Temperament, durch und durch eine Dame.
 str_they_say_that_s9_is_a_bit_of_a_romantic_a_dreamer__of_a_gentle_temperament_yet_unpredictable_she_is_likely_to_be_led_by_her_passions_and_will_be_trouble_for_her_family_ill_wager|Man sagt, {s9} sei etwas romantisch veranlagt, eine Träumerin – von sanftem Temperament, doch unberechenbar. Sie wird höchstwahrscheinlich von ihren Leidenschaften gesteuert, und ich wette, sie macht ihrer Familie viel Ärger.
 str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|Man sagt, {s9} sei entschlossen, standesgemäß zu heiraten und der Welt ihren Stempel aufzudrücken. Sie könnte für ihren Gatten von enormem Wert sein – so lange er ihren Ehrgeiz befriedigen kann!
-str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|Man sagt, {s9} liebt die Jagd und das Reiten. Vielleicht wünscht sie, ein Mann zu sein! Wer auch immer ihr Gespons werden wird, ich wette, er wird es schwierig haben, die Oberhand in der Ehe zu behalten.
+str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|Man sagt, {s9} liebt die Jagd und das Reiten. Vielleicht wünscht sie, ein Mann zu sein! Wer auch immer ihr Gemahl werden wird, ich wette, er wird es schwierig haben, die Oberhand in der Ehe zu behalten.
 str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|Man sagt, {s9} sei eine Dame von höchstem moralischen Standard. Sehr bewundernswert -- und sehr schwierig zufrieden zu stellen, wette ich.
 str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|{s9} ist nun velobt mit {s11}. Bald schon, so glauben wir, wird die Hochzeit sein!
 str_i_have_not_heard_any_news_about_her|Ich habe keine Neuigkeiten von ihr gehört.
