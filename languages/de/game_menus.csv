@@ -235,19 +235,19 @@ mno_village_attack_bandits|Greift die Banditen an.
 mno_village_wait|Einige Zeit hier warten.
 mno_collect_taxes_qst|{reg5?Treibt weiter Steuern ein:Treibt Steuern ein}, die {s1} zustehen.
 mno_train_peasants_against_bandits_qst|Bildet die Bauern aus.
-mno_village_hostile_action|Feindliche Handlung vornehmen.
+mno_village_hostile_action|Feindliche Handlung ...
 mno_village_leave|Verlassen ...
 menu_village_hostile_action|Was möchtet Ihr tun?
 mno_village_take_food|Zwingt die Bauern, Euch Vorräte zu geben.
 mno_village_steal_cattle|Stehlt Vieh.
-mno_village_loot|Plündert das Dorf und macht es dann dem Erdboden gleich.
+mno_village_loot|Plündert das Dorf und brennt alles nieder.
 menu_recruit_volunteers|{s18}
 mno_continue_not_enough_gold|Ich habe nicht genug Geld ...
 mno_recruit_them|Rekrutiert sie ({reg6} Dinare).
-menu_village_hunt_down_fugitive_defeated|Ein heftiger Schlag des Flüchtigen schickt Euch zu Boden, Euer Sichtfeld schwindet und es wird dunkel. Die Zeit verstreicht. Als Ihr Eure Augen wieder öffnet, entdeckt Ihr, dass Ihr blutig und zerschlagen seid, doch glücklicherweise scheint keine der Wunden ernsthafter Natur zu sein.
+menu_village_hunt_down_fugitive_defeated|Ein heftiger Schlag des Flüchtigen schickt Euch zu Boden. Euer Sichtfeld schwindet und es wird dunkel um Euch herum. Die Zeit verstreicht. Als Ihr Eure Augen wieder öffnet, seid Ihr blutig und zerschlagen, doch glücklicherweise scheint Ihr keine ernsthaften Wunden davonzutragen.
 menu_village_infest_bandits_result|{s9}
-menu_village_infestation_removed|In einer Heldenlieder inspirierenden Schlacht vertreibt Ihr und Eure Mannen die Banditen aus dem Dorf und bringt ihm wieder Frieden und Sicherheit. Die Dörfler haben nach dieser schweren Prüfung nur noch wenig in ihrem Besitz, aber sie bieten Euch alles an, was sie finden können.
-mno_village_bandits_defeated_accept|Nehmt es an. Es steht Euch zu.
+menu_village_infestation_removed|In einer Schlacht, die noch in Heldenliedern besungen werden wird, vertreibt Ihr und Eure Mannen die Banditen und bringt wieder Frieden und Sicherheit in das Dorf. Den Dorfbewohnern bleibt in diesen harten Zeiten nur noch wenig Besitz, aber sie bieten Euch alles an, was sie zusammen kratzen können.
+mno_village_bandits_defeated_accept|Nehmt, was Euch zusteht.
 mno_village_bandits_defeated_cont|Weist das Angebot zurück. Sie benötigen es dringender als Ihr.
 menu_center_manage|{s19}^{reg6?^^Momentaner Bau: {s7}. Das Gebäude wird nach {reg8} Tag{reg9?en:}.:} fertig sein
 mno_center_build_manor|Errichtet ein Herrenhaus.
@@ -280,9 +280,9 @@ mno_disembark_yes|Ja.
 mno_disembark_no|Nein.
 menu_close|Nichts.
 menu_town|{s10} {s14}^{s11}{s12}{s13}
-mno_castle_castle|Geht zur Halle des Fürsten{s1}.
+mno_castle_castle|Betretet den Bergfried.
 mno_castle_castle_door|Tür zur Burg.
-mno_join_tournament|Macht beim Turnier mit.
+mno_join_tournament|Meldet Euch beim Turnier an.
 mno_town_castle|Geht zur Burg{s1}.
 mno_town_castle_door|Tür zur Burg.
 mno_town_center|Unternehmt einen Spaziergang durch die Straßen.
@@ -295,7 +295,7 @@ mno_town_arena|Betretet die Arena.
 mno_town_arena_door|Tür zur Arena.
 mno_town_dungeon|Nie: Betretet den Kerker.
 mno_town_dungeon_door|Tür zum Verlies.
-mno_castle_inspect|Unternehmt einen Spaziergang durch den Hof.
+mno_castle_inspect|Inspiziert Mauern und Burghof.
 mno_castle_inspect_door|Zum Burghof.
 mno_town_enterprise|Besucht Eure {s3}.
 mno_town_enterprise_door|Türe Eures Betriebs.
@@ -304,9 +304,9 @@ mno_visit_lady_door|Tür zum Garten.
 mno_trade_with_merchants|Geht zum Marktplatz.
 mno_walled_center_manage|Verwaltet diese {reg0?Stadt:Burg}.
 mno_walled_center_move_court|Verlagert Euren Hof hierher.
-mno_castle_station_troops|Stationiert eine Garnison ...
-mno_castle_wait|Wartet hier eine Weile{s1}.
-mno_town_leave|Verlassen ...
+mno_castle_station_troops|Stationiert eine Garnison...
+mno_castle_wait|Rastet hier eine Weile{s1}.
+mno_town_leave|Verlassen...
 mno_town_leave_door|Verlasst den Bereich.
 menu_cannot_enter_court|In der Halle des Fürsten ist ein Festmahl im Gange, aber Euer aktueller Status reicht nicht, um Einlass zu erhalten. Vielleicht könnte Euch ein gesteigertes Ansehen Einlaß gewähren -- oder Ihr könntet auch versuchen, Euch während des Gelages in einem Turnier einen Namen zu machen ...
 menu_lady_visit|Wen wünscht Ihr zu besuchen?

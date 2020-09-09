@@ -91,8 +91,8 @@ trp_swadian_messenger|Swadischer Bote
 trp_swadian_messenger_pl|Swadische Boten
 trp_swadian_deserter|Swadischer Deserteur
 trp_swadian_deserter_pl|Swadische Deserteure
-trp_swadian_prison_guard|Gefängniswache
-trp_swadian_prison_guard_pl|Gefängniswachen
+trp_swadian_prison_guard|Gefängniswärter
+trp_swadian_prison_guard_pl|Gefängniswärter
 trp_swadian_castle_guard|Burgwache
 trp_swadian_castle_guard_pl|Burgwachen
 trp_vaegir_recruit|Vägir-Rekrut
@@ -119,8 +119,8 @@ trp_vaegir_messenger|Vägir-Bote
 trp_vaegir_messenger_pl|Vägir-Boten
 trp_vaegir_deserter|Vägir-Deserteur
 trp_vaegir_deserter_pl|Vägir-Deserteure
-trp_vaegir_prison_guard|Gefängniswache
-trp_vaegir_prison_guard_pl|Gefängniswachen
+trp_vaegir_prison_guard|Gefängniswärter
+trp_vaegir_prison_guard_pl|Gefängniswärter
 trp_vaegir_castle_guard|Burgwache
 trp_vaegir_castle_guard_pl|Burgwachen
 trp_khergit_tribesman|Khergit-Stammeskrieger
@@ -139,8 +139,8 @@ trp_khergit_messenger|Khergit-Bote
 trp_khergit_messenger_pl|Khergit-Boten
 trp_khergit_deserter|Khergit-Deserteur
 trp_khergit_deserter_pl|Khergit-Deserteure
-trp_khergit_prison_guard|Gefängniswache
-trp_khergit_prison_guard_pl|Gefängniswachen
+trp_khergit_prison_guard|Gefängniswärter
+trp_khergit_prison_guard_pl|Gefängniswärter
 trp_khergit_castle_guard|Burgwache
 trp_khergit_castle_guard_pl|Burgwachen
 trp_nord_recruit|Nord-Rekrut
@@ -165,8 +165,8 @@ trp_nord_messenger|Nord-Bote
 trp_nord_messenger_pl|Nord-Boten
 trp_nord_deserter|Nord-Deserteur
 trp_nord_deserter_pl|Nord-Deserteure
-trp_nord_prison_guard|Gefängniswache
-trp_nord_prison_guard_pl|Gefängniswachen
+trp_nord_prison_guard|Gefängniswärter
+trp_nord_prison_guard_pl|Gefängniswärter
 trp_nord_castle_guard|Burgwache
 trp_nord_castle_guard_pl|Burgwachen
 trp_rhodok_tribesman|Rhodok-Stammeskrieger
@@ -191,8 +191,8 @@ trp_rhodok_messenger|Rhodok-Bote
 trp_rhodok_messenger_pl|Rhodok-Boten
 trp_rhodok_deserter|Rhodok-Deserteur
 trp_rhodok_deserter_pl|Rhodok-Deserteure
-trp_rhodok_prison_guard|Gefängniswache
-trp_rhodok_prison_guard_pl|Gefängniswachen
+trp_rhodok_prison_guard|Gefängniswärter
+trp_rhodok_prison_guard_pl|Gefängniswärter
 trp_rhodok_castle_guard|Burgwache
 trp_rhodok_castle_guard_pl|Burgwachen
 trp_sarranid_recruit|Sarranidischer Rekrut
@@ -219,8 +219,8 @@ trp_sarranid_messenger|Sarranidischer Bote
 trp_sarranid_messenger_pl|Sarranidische Boten
 trp_sarranid_deserter|Sarranidischer Deserteur
 trp_sarranid_deserter_pl|Sarranidische Deserteure
-trp_sarranid_prison_guard|Gefängniswache
-trp_sarranid_prison_guard_pl|Gefängniswachen
+trp_sarranid_prison_guard|Gefängniswärter
+trp_sarranid_prison_guard_pl|Gefängniswärter
 trp_sarranid_castle_guard|Burgwache
 trp_sarranid_castle_guard_pl|Burgwachen
 trp_looter|Plünderer
@@ -1363,3 +1363,9 @@ trp_kingdom_5_2c_wife_1|Lady Calantina
 trp_kingdom_5_2c_wife_2|Lady Ysueth
 trp_kingdom_5_2c_wife_1_pl|Calantina
 trp_kingdom_5_2c_wife_2_pl|Ysueth
+trp_dplmc_chamberlain|Schatzmeister Aubrey de Vere
+trp_dplmc_constable|Constable Miles de Gloucester
+trp_dplmc_chancellor|Kanzler Herfast
+trp_dplmc_messenger|Bote
+trp_dplmc_scout|Pfadfinder
+trp_dplmc_recruiter|Werber

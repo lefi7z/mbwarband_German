@@ -3,7 +3,7 @@ qstr_Next_Page|Nächste Seite
 qstr_Game_Rules:^|Spielregeln:^
 qstr_0|0
 qstr_Show_game_rules|Spielregeln zeigen
-qstr_Continue...|Weiter ...
+qstr_Continue...|Weiter...
 qstr_Candidate_#1:_{s1}|Kandidat #1: {s1}
 qstr_Candidate_#2:_{s1}|Kandidat #2: {s1}
 qstr_{s3}_of_{s4}_wishes_|{s3} von {s4} gedenkt, einen neuen Marschall auszuwählen und lädt seine Vasallen zur Beratung ein. {s1} und {s2} sind die aussichtsreichsten Kandidaten.
@@ -277,14 +277,18 @@ qstr_I_suppose_it_ll_make|Na ja, wenigstens ist es für eine schöne Geschichte 
 qstr_Player_retreats_from|Du ziehtst sich aus dem Kampf zurück.
 qstr_{s9}_wants_you_to_fo|{s9} wünscht, dass Ihr Euch seiner Armee bis auf weiteres anschließt.
 qstr_{s8}_of_{s9}|{s8} von {s9}
+qstr__You_see_the_banner_|Ihr seht das Banner Eures {s11}s {s7} über dem Burgtor wehen.
+qstr__You_see_the_banner_o|Ihr seht das Banner von {s7} über dem Burgtor wehen.
+qstr__You_see_the_banner_of|Ihr seht das Banner Eures {s11}s {s7} über den Stadttoren wehen.
+qstr__You_see_the_banner_of_|Ihr seht das Banner von {s7} über den Stadttoren.
 qstr__Your_own_banner_fli|Euer eigenes Banner weht über dem Burgtor.
-qstr__You_see_the_banner_|Ihr seht das Banner von {s7} über dem Burgtor wehen.
-qstr__Your_own_banner_flie|Euer eigenes Banner fliegt über den Stadttoren.
-qstr__You_see_the_banner_o|Ihr seht das Banner von {s7} über den Stadttoren.
-qstr_The_{reg6?town_s:cas|Die Nahrungsvorräte der {reg6?Stadt:Burg} sollten noch für weitere {reg3} Tage reichen.
-qstr_The_{reg6?town_s:cast|Die Nahrungsvorräte der {reg6?Stadt:Burg} sind erschöpft, und die Verteidiger leiden Hunger.
-qstr_You_re_preparing_to_|Ihr bereitet Euch darauf vor, die Mauern zu erstürmen; dies sollte in {reg9} Stunden getan sein.
-qstr_Your_forces_are_buil|Eure Truppen errichten einen Belagerungsturm. Sie schätzen, es wird noch {reg9} Stunden bis zur Fertigstellung dauern.
+qstr__Your_own_banner_flie|Euer eigenes Banner weht über den Stadttoren.
+qstr__Your_{reg1?capital_| {reg1?Eure Hauptstadt ist:Euer Hof residiert} hier{reg0?, wo auch Euer Gemahl {s0} verweilt:}.
+qstr__Your_household_can_ Euer Hof ist hier.
+qstr_The_{reg6?town_s:cas|Die Nahrungsvorräte der {reg6?Stadt:Burg} reichen noch für weitere {reg3} Tage.
+qstr_The_{reg6?town_s:cast|Die Nahrungsvorräte der {reg6?Stadt:Burg} sind erschöpft. Die Verteidiger hungern und wühlen in den Küchenabfällen nach Essbarem. Ratten werden auf dem Spieß gegrillt.
+qstr_You_re_preparing_to_|Ihr bereitet Euch darauf vor, die Mauern zu erstürmen. In {reg9} Stunden ist es soweit.
+qstr_Your_forces_are_buil|Eure Truppen errichten einen Belagerungsturm. Es wird noch {reg9} Stunden bis zur Fertigstellung dauern.
 qstr_You_are_ready_to_att|Ihr seid bereit, die Mauern jederzeit anzugreifen.
 qstr_The_siege_tower_is_b|Der Belagerungsturm ist fertig und bereit zum Angriff.
 qstr_As_a_last_defensive_|Als letzte Verteidigungsanstrengung zieht Ihr Euch in die Haupthalle des Burgfrieds zurück. Ihr und Eure verbleibende Schar werden hier das letzte, verzweifelte Aufgebot stellen. Wenn Ihr besiegt werdet, könnt Ihr Euch nirgends zurückziehen.
@@ -294,6 +298,7 @@ qstr_The_town_centre_is_y|Das Stadtzentrum ist Euer, aber die verbleibenden Vert
 qstr_The_remaining_defend|Die übrig gebliebenen Verteidiger haben sich zu einem letzten Gefecht in die Burg zurückgezogen. Ihr müsst eindringen und jeden noch verbleibenden Widerstand zerschmettern.
 qstr_However_since_you_ar|Doch da Ihr keiner der eingeschworenen Gefolgsleute von {s9} seid, wird er Euch nicht als {Fürst/Fürstin} dieser {reg8?Stadt:Burg} erkennen.
 qstr_The_enemy_has_been_f|Der Feind wurde zum Rückzug gezwungen. Der Angriff ist vorbei, doch die Belagerung hält an.
+qstr_As_you_approach_you|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {ihren König/ihre Königin} öffnen.
 qstr_As_you_approach_you_|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {ihren König/ihre Königin} öffnen.
 qstr_As_you_approach_you_a|Als Ihr Euch nähert, werdet Ihr von den Burgwachen entdeckt, die Euch willkommen heißen und die Tore für {ihren Fürst/ihre Fürstin} öffnen.
 qstr__This_village_and_th|Dieses Dorf und das umliegende Land gehören Euch.
