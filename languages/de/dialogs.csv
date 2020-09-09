@@ -1,5 +1,5 @@
 lockitver|DO NOT DELETE THIS LINE! - Pferd % Schwert: Eine Deutschkorrektur - 28.06.2017 - Xyarvius 
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Ich möchte mit der Ernennung eines Fürsten warten, bis ich mich mit meinen ersten Vertrauten darüber beraten habe.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Ich möchte mit der Ernennung eines Fürsten warten, bis ich mich mit meinen engsten Vertrauten darüber beraten habe.
 dlga_award_fief_to_vassal_defer:close_window|Wie ihr wünscht, {mein Herr/meine Dame}. Ihr könnt später eine Entscheidung darüber fällen.
 dlga_award_fief_to_vassal_2:close_window|Wie Ihr wünscht, {Herr/meine Dame}. {reg6?I:{reg7?Ihr:{s11}}} seid der neue Herrscher über {s1}.
 dlga_event_triggered:center_captured_rebellion|{s1} wird von niemandem verwaltet. Wen soll ich zu diesem Zwecke einsetzen?
@@ -2619,30 +2619,30 @@ dlga_town_dweller_talk:town_dweller_ask_info.1|Was könnt Ihr mir über diese St
 dlga_town_dweller_ask_info:close_window|{s10} {s11}
 dlga_town_dweller_talk:town_dweller_ask_situation|Wie ist das Leben hier?
 dlga_town_dweller_ask_situation:town_dweller_poor|{Herr/Herrin}, ein großes Unheil hat meine Familie heimgesucht. Wir besitzen kein Land und die anderen haben kein Geld, um uns für unsere Arbeit zu entlohnen oder uns sonstwie zu helfen. Meine armen Kinder liegen hungrig und krank zu Hause. Ich weiß nicht, was wir noch tun können.
-dlga_town_dweller_ask_situation:town_dweller_poor.1|Mein Leben ist die Hölle, {mein Herr/meine Dame}. Schon seit Monaten habe ich keine Arbeit und meine armen Kinder müssen jede Nacht hungrig zu Bett gehen. Meine Nachbarn sind zu arm, um mich unterstützen zu können.
+dlga_town_dweller_ask_situation:town_dweller_poor.1|Mein Leben ist ganz schlimm, {mein Herr/meine Dame}. Schon seit Monaten habe ich keine Arbeit und meine armen Kinder müssen jede Nacht hungrig zu Bett gehen. Meine Nachbarn sind zu arm, um mich unterstützen zu können.
 dlga_town_dweller_poor:town_dweller_poor_paid|Dann nehmt diese 300 Dinare. Ich hoffe, dies wird Euch und Eurer Familie helfen.
 dlga_town_dweller_poor:town_dweller_poor_not_paid|Dann müsst Ihr Euch zweifelsohne an einen anderen Ort begeben oder ein anderes Handwerk erlernen.
-dlga_town_dweller_poor_not_paid:close_window|Ja, {mein Herr/meine Dame}. Ich werde tun, was Ihr sagt.
-dlga_town_dweller_poor_paid:close_window|{Mein Fürst/Meine gute Fürstin}. Ihr seid so gütig und großzügig. Ich werde allen sagen, wie Ihr uns geholfen habt.
+dlga_town_dweller_poor_not_paid:close_window|Ja, {mein Herr/meine Dame}. Ich werde tun, wie Ihr befiehlt.
+dlga_town_dweller_poor_paid:close_window|{Mein Fürst/Meine gute Fürstin}. Ihr seid zu gütig. Ich werde allen sagen, wie sehr Ihr uns geholfen habt.
 dlga_town_dweller_ask_situation:close_window|Vielen Dank für Eure Güte, {mein Herr/meine Dame}. Dank Eurer Hilfe wird sich unser Leben verbessern. Ich werde jeden Tag für Euch beten.
-dlga_town_dweller_ask_situation:town_dweller_talk|Die Zeiten sind hart, {mein Herr/meine Dame}. Wir arbeiten den ganzen Tag schwer und gehen trotzdem meistens hungrig zu Bett.
-dlga_town_dweller_ask_situation:town_dweller_talk.1|Die Zeiten sind hart, {mein Herr/meine Dame}. Doch wir müssen dankbar für das wenige sein, das wir haben.
+dlga_town_dweller_ask_situation:town_dweller_talk|Die Zeiten sind hart, {mein Herr/meine Dame}. Wir schuften den ganzen Tag und gehen trotzdem hungrig zu Bett.
+dlga_town_dweller_ask_situation:town_dweller_talk.1|Es sind harte Zeiten, {mein Herr/meine Dame}. Doch wir danken Gott für das Wenige, das wir haben.
 dlga_town_dweller_ask_situation:town_dweller_talk.2|Es geht uns nicht schlecht, {mein Herr/meine Dame}. Wir müssen dankbar für das sein, was wir haben.
 dlga_town_dweller_talk:town_dweller_ask_trade|Welchem Geschäft geht Ihr nach?
 dlga_town_dweller_ask_trade:town_dweller_talk|{s14}
-dlga_town_dweller_talk:town_dweller_ask_rumor|Was wird hier in der Gerüchteküche aufgetischt?
+dlga_town_dweller_talk:town_dweller_ask_rumor|Gibt es was aus der Gerüchteküche?
 dlga_town_dweller_ask_rumor:town_dweller_talk|Ich weiß nichts, was für Euch von Interesse sein könnte.
 dlga_town_dweller_ask_rumor:town_dweller_talk.1|{s61}
 dlga_town_dweller_ask_rumor:town_dweller_talk.2|Ich habe in letzter Zeit nichts Interessantes gehört.
 dlga_town_dweller_talk:close_window|[Weiterziehen]
-dlga_start:player_castle_guard_talk|Ja, {mein Herr/meine Dame}?
-dlga_player_castle_guard_talk:player_castle_guard_talk_2|Wie läuft die Wachschicht?
-dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Alles ruhig, {mein Herr/meine Dame}. Keine besonderen Vorkommnisse.
-dlga_player_castle_guard_talk_3:close_window|Gut. Haltet Eure Augen offen.
-dlga_start:close_window.41|Guten Tag, {Herr/Dame}. Eure Anwesenheit in {s10} ehrt uns.
-dlga_start:close_window.42|Benehmt Euch innerhalb der Mauern und wir werden keine Schwierigkeiten haben.
+dlga_start:player_castle_guard_talk|Ja, {mein Herr/meine Herrin}?
+dlga_player_castle_guard_talk:player_castle_guard_talk_2|Wie läuft die Wachschicht, Soldat?
+dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Alles ruhig, {Herr/Herrin}. Wenn sich was rührt, dann wissen wir's als Erstes. Verlasst Euch auf uns, {Herr/Herrin}.
+dlga_player_castle_guard_talk_3:close_window|Gut. Haltet die Augen offen. Der Feind schläft nicht und ich will keine böse Überraschung erleben.
+dlga_start:close_window.47|Guten Tag, {Herr/Herrin}. Eure Anwesenheit auf {s10} ehrt uns.
+dlga_start:close_window.48|Benehmt Euch innerhalb der Mauern und wir werden keine Schwierigkeiten haben.
 dlga_start:hall_guard_talk|Eure Befehle, {mein Fürst/meine Fürstin}?
-dlga_start:close_window.43|Verzeiht, aber es ist uns untersagt, während der Wache zu reden, {mein Herr/meine Dame}.
+dlga_start:close_window.49|Verzeiht, aber es ist uns untersagt, während der Wache zu reden, {mein Herr/meine Dame}.
 dlga_start:production_settings|Seid gegrüßt, {Herr/Herrin}. Euer {s4} ist fertig und produziert {s5} aus {s6}.
 dlga_start:production_settings.1|Seid gegrüßt, {Herr/Herrin}. Euer {s4} ist fertig und produziert {s5} aus {s6}. Ich weiß, dass Ihr diese Unternehmung verkaufen möchtet, und versuche daher, einen Käufer zu finden.
 dlga_start:production_settings.2|Seid gegrüßt, {Herr/Herrin}. Euer {s4} ist fertig und produziert {s5} aus {s6}. Ich habe einen Käufer gefunden, der uns {reg4} Dinare für diese Unternehmung bietet.
