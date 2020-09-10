@@ -379,10 +379,10 @@ dlga_minister_replace_select:minister_pretalk|Wartet damit noch etwas.
 dlga_minister_replace_confirm:close_window|Sehr gut. {s9} ist Euer neuer Minister. Es war mir eine Ehre, Euch zu dienen. Ich werde mich bereithalten, solltet Ihr mich wieder brauchen.
 dlga_minister_replace_confirm:close_window.1|Sehr gut. {s9} ist Euer neuer Minister. Es war mir eine Ehre, Euch zu dienen.
 dlga_minister_grant_fief:minister_grant_fief_select|Welches Eurer Lehen möchtet Ihr vergeben?
-dlga_minister_grant_fief_select:minister_grant_fief_select_recipient|{s1}
 dlga_minister_grant_fief_select:minister_pretalk|Schon gut.
 dlga_minister_grant_fief_select_recipient:minister_grant_fief_select_recipient_choice|Und wer soll dieses Lehen erhalten?
-dlga_minister_grant_fief_select_recipient_choice:minister_grant_fief_complete|{s1}
+dlga_minister_grant_fief_select:minister_grant_fief_select_recipient|{s1}{s12}
+dlga_minister_grant_fief_select_recipient_choice:minister_grant_fief_complete|{!}{s11} {s1}
 dlga_minister_grant_fief_select_recipient_choice:minister_pretalk|Schon gut.
 dlga_minister_grant_fief_complete:minister_pretalk|Wohlan - {s2} wird {s1} als Lehen erhalten.
 dlga_minister_indict:minister_indict_select|Betrübliche Nachrichten, {Herr/Fürstin}. Wer, glaubt Ihr, plant Euch zu hintergehen?
@@ -558,13 +558,13 @@ dlga_lord_event_choose_friend:lord_event_choose_friend_defend|{s6} ist ein ehren
 dlga_lord_event_choose_friend_defend:lord_pretalk|Wie Ihr meint, {playername}. Ihr mögt zwar ein Narr sein, aber zumindest ein loyaler Narr. Mit {s6}s Loyalität ist es wahrscheinlich anders bestellt...
 dlga_lord_event_choose_friend:lord_event_choose_friend_neutral|Ich möchte nicht in Euren Zwist mit {s6} hineingezogen werden.
 dlga_lord_event_choose_friend_neutral:lord_pretalk|Hmmm, wie Ihr wünscht, {playername}. Vergesst nur nicht, dass man in dieser Welt Freunde braucht und wenn Ihr niemals Partei ergreift, werdet Ihr niemals welche finden.
-dlga_start:lord_start.4|Meine Fürstin, mein Herz ist erfüllt von Freude, Euch wieder zu sehen!
-dlga_start:lord_start.5|{Mein Herr/Meine Fürstin}, ich bin Euch stets ergeben zu Diensten!
-dlga_start:lord_start.6|Wenn das nicht mein tapferer Recke {playername} ist...
+dlga_start:lord_start.4|Meine Dame, mein Herz ist erfüllt von Freude, Euch wieder zu sehen!
+dlga_start:lord_start.5|Euch stets ergeben zu Diensten, mein{ Herr/e Dame}!
+dlga_start:lord_start.6|Seid gegrüßt {playername}, mein tapferer Recke!
 dlga_start:lord_invite_player_monarch_1|Nun, {playername}. Ich bin gewillt, Eure freche Selbsternennung als {König/Königin} zu übersehen und Euch mit allen Ehren als einen meiner Vasallen in meinem Reich zu begrüßen. Sollen wir mit dem Treueschwur fortfahren?
 dlga_lord_invite_player_monarch_1:lord_invite_2|Ja... mein Fürst.
 dlga_lord_invite_player_monarch_1:lord_enter_service_reject|Nein. Dieser Schwur wird mir im Hals steckenbleiben.
-dlga_start:lord_invite_1|{playername}, ich habe Euch erwartet. Eure Heldentaten sind mit zu Ohren gekommen. Als ich fortwährend von Eurer Tapferkeit und Eurem Heldenmut hörte, war ich mir sicher, einen würdigen Vasallen gefunden zu haben.
+dlga_start:lord_invite_1|{playername}, ich habe Euch erwartet. Eure Heldentaten sind mir schon zu Ohren gekommen. Als ich fortwährend von Eurer Tapferkeit und Eurem Heldenmut hörte, war ich mir sicher, einen würdigen Vasallen gefunden zu haben.
 dlga_lord_invite_1:lord_invite_2|Ich danke Euch, {s65}, Ihr ehrt mich mit Eurem Angebot.
 dlga_lord_invite_1:lord_invite_2.1|Es ist gut, meinen wahren Wert erkannt zu wissen.
 dlga_lord_invite_2:lord_invite_3|Gewiss. Lasst uns nun auf die Förmlichkeiten verzichten, {playername}; seid Ihr bereit, mir die Treue zu schwören?
@@ -587,15 +587,15 @@ dlga_start:lord_start.10|Schön, Euch wiederzusehen, {playername}...
 dlga_start:lord_start.11|Erneut treffen wir uns, {playername}...
 dlga_start:lord_meet_neutral|Kenne ich Euch?
 dlga_lord_meet_neutral:lord_intro|Ich heiße {playername}.
-dlga_lord_meet_neutral:lord_intro.1|Mein Name lautet {playername}. Stets zu Diensten, Herr.
+dlga_lord_meet_neutral:lord_intro.1|Mein Name ist {playername}. Stets zu Diensten, Herr.
 dlga_lord_intro:lord_start|{s11}
 dlga_start:lord_meet_enemy|{s43}
 dlga_lord_meet_enemy:lord_intro|{s65}, ich bin {playername}.
-dlga_lord_meet_enemy:lord_intro.1|Man nennt mich {playername}. Merkt Euch diesen Namen, denn Ihr werdet noch viel von mir hören.
+dlga_lord_meet_enemy:lord_intro.1|Mein Name ist {playername}. Merkt ihn Euch gut, denn Ihr werdet noch viel von mir hören!
 dlga_start:lord_start.12|{s8}
 dlga_lord_start:lord_start|{s42}
-dlga_lair_quest_intermediate_1:lord_pretalk|Hervorragende Arbeit, {playername} - Euer kühner Angriff ist das Gespräch des ganzen Reichs. Zweifellos werden sie, und andere wie sie, bald wieder zurückkommen, aber Ihr habt diesem Land für kurze Zeit eine Verschnaufpause ermöglicht. Wir sind Euch zutiefst dankbar.
-dlga_lair_quest_intermediate_2:lord_pretalk|Nun, {playername}, ich schätze, zumindest einige dieser Briganten sind Euch entkommen -- und natürlich werden die friedlichen Reisenden dieses Landes den Preis dafür zahlen. Trotzdem war es gut von Euch, diesen Versuch zu wagen.
+dlga_lair_quest_intermediate_1:lord_pretalk|Hervorragende Arbeit, {playername} - Euer kühner Angriff ist das Gespräch des ganzen Reichs. Zweifellos werden sie, und andere wie sie, bald wieder zurückkommen, aber Ihr habt diesem Land wenigstens für kurze Zeit ein wenig Frieden beschert. Wir sind Euch zutiefst dankbar.
+dlga_lair_quest_intermediate_2:lord_pretalk|Nun, {playername}, ich schätze, zumindest einige dieser Briganten sind Euch entkommen -- und natürlich werden die friedlichen Reisenden dieses Landes den Preis dafür zahlen müssen. Dennoch, es war gut von Euch, diesen Versuch zu wagen.
 dlga_lord_start:lord_generic_mission_completed|Euer Wundarzt konnte meinen Freund überzeugen und führte die Operation durch. Nun liegt es in Gottes Hand, und wir können nur für seine Genesung beten. Wie auch immer, ich danke Euch, {mein Herr/meine Dame}, dass ihr mir die Dienste Eures Wundarztes ermöglicht habt. Ihr seid ein nobler Mensch und ich werde es nicht vergessen.
 dlga_lord_start:wedding_ceremony_bride_vow|Der Himmel ist mein Zeuge, dass ich bereit bin, Euch mein {s11} {s4} zum Hochzeitsgeschenk zu machen...
 dlga_lord_start:lord_wedding_reschedule|Es freut mich, Euch zu sehen, {playername}. Wir erwarten die Hochzeit, sobald wir alle uns im Rahmen eines Gelages versammeln können.{s12}
@@ -764,7 +764,7 @@ dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk.2|Ich werde {s
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk.2|Ich unterstütze {s4}.
 dlga_lord_internal_politics_pretalk:lord_internal_politics_cur_stance_plyr_response|Ah. Hochinteressant.
 dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_plyr_request_support|Kann ich Euch wohl dazu bringen, stattdessen mich zu unterstützen?
-dlga_lord_internal_politics_cur_stance_plyr_response:lord_pretalk|Naja, das reicht wohl erstmal zum Thema Politik.
+dlga_lord_internal_politics_cur_stance_plyr_response:lord_pretalk|Genug von der Politik!
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk|Ihr seid im Brennpunkt viel zu vieler Kontroversen, um momentan einen guten Kandidaten abzugeben. Ich würde Euch empfehlen, noch ein Weilchen zu warten, bevor Ihr weitere Ehren für Euch ins Visier nehmt.
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.1|Es tut mir leid. Ich würde meine Beziehung mit {s4} nicht gefährden wollen.
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.2|Ich würde sagen, Ihr seid schon reichlich mit Lehen belohnt worden, die Euren Errungenschaften entsprechen.
