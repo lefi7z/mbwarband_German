@@ -2030,7 +2030,7 @@ str_i_am_thinking_of_going_on_the_attack|Ich erwäge den Angriff.
 str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|Vielleicht können wir diesen Krieg zu unseren Bedingungen beenden, wenn ich einen weiteren Schlag ausführe.
 str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|Wir können diesen Krieg vielleicht mit ein paar mehr Angriffen zu Ende bringen.
 str_i_wish_to_attend_the_feast_there|Ich wünsche am Gelage dort teilzunehmen.
-str_there_is_a_feast_which_i_wish_to_attend|Dort ist ein Gelage, an dem ich teilnehmen will.
+str_there_is_a_feast_which_i_wish_to_attend|Dort findet ein Gelage statt, an dem ich teilzunehmen gedenke.
 str_there_is_a_fair_lady_there_whom_i_wish_to_court|Dort ist eine schöne Dame, um die ich freien will.
 str_i_have_the_inclination_to_pay_court_to_a_fair_lady|Ich trage mich mit dem Gedanken, um eine schöne Dame zu freien.
 str_we_have_heard_reports_that_the_enemy_is_in_the_area|Wir haben Berichte, dass der Feind sich in diesem Gebiet befindet.
@@ -2070,9 +2070,9 @@ str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_import
 str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|Wir sollten auf unseren Erfolg mit {s21} aufbauen, indem wir eine ihrer Festungen einnehmen.
 str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|Wir werden einen Pfad der verbrannten Erde durch das Herz des Feindlandes hinterlassen, wobei wir, wann immer möglich, die reichen Niederlassungen angreifen.
 str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|Die Armee wird aufgelöst, weil wir zu lange ohne Ziel warten mussten.
-str_it_is_time_for_the_feast_to_conclude|Es ist Zeit, das Gelage zu beenden.
-str_we_should_continue_the_feast_unless_there_is_an_emergency|Wir sollten das Gelage weiterführen, es sei denn, es gibt einen Notfall.
-str_you_had_wished_to_hold_a_feast|Ihr wünschtet ein Gelage abzuhalten.
+str_it_is_time_for_the_feast_to_conclude|Es ist an der Zeit, das Gelage zu beenden. Kehrt die Betrunkenen heraus. 
+str_we_should_continue_the_feast_unless_there_is_an_emergency|Wir sollten mit dem Gelage weitermachen, es sei denn, es gibt einen Notfall.
+str_you_had_wished_to_hold_a_feast|Ihr wünschtet, ein Gelage abzuhalten.
 str_your_wedding_day_approaches_my_lady|Euer Hochzeitstag rückt näher, meine Dame.
 str_your_wedding_day_approaches|Euer Hochzeitstag rückt näher.
 str_s22_and_s23_wish_to_marry|{s22} und {s23} wünschen sich zu verloben.
@@ -2206,7 +2206,7 @@ str__the_townspeople_seem_to_have_declared_their_independence| Die Städter sche
 str_to_your_husband_s11|Eurem Gatten, {s11}.
 str__you_see_the_banner_of_your_wifehusband_s7_over_the_castle_gate| Ihr seht das Banner Eure{r Gemahlin/s Gemahls} {s7} über dem Burgtor wehen.
 str__the_banner_of_your_wifehusband_s7_flies_over_the_town_gates| Das Banner Eure{r Gemahlin/s Gemahls} {s7} flattert über den Stadttoren.
-str__the_lord_is_currently_holding_a_feast_in_his_hall|^Der Fürst hält momentan ein Gelage in seiner Halle ab.
+str__the_lord_is_currently_holding_a_feast_in_his_hall|^Der Fürst hält momentan ein Gelage in seinen Hallen ab.
 str__join_the_feast| (dem Gelage anschließen)
 str_belligerent_drunk_in_s4|Rauflustiger Trunkenbold in {s4}
 str_belligerent_drunk_not_found|Rauflustiger Trunkenbold nicht gefunden
@@ -2441,7 +2441,7 @@ str_very_well__i_will_let_you_choose_the_time|Nun gut -- ich werde Euch die Zeit
 str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|Gut! Ich bin froh, dass Ihr es aufgegeben habt, mich zur Ehe zu drängen, bevor ich bereit bin.
 str_i_am|Ich bin
 str_s12_s11_to_s14|{s12} {s11} von {s14}
-str_s12_i_am_here_for_the_feast|{s12}. Ich bin für das Gelage hier.
+str_s12_i_am_here_for_the_feast|{s12}. Ich bin für das Fest hier.
 str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|Noch eine Turnierwidmung? Na ja, ich denke, es schmeichelt ja doch immer...
 str_do_you_why_what_a_most_gallant_thing_to_say|Wirklich? Nun, das ist sehr galant von Euch.
 str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmmh. Ich kann nicht behaupten, dass ich solcherlei Frivolitäten gut heiße, aber ich muss doch zugeben, dass ich mich leicht geschmeichelt fühle.
